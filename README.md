@@ -1,0 +1,1 @@
+# BlogPessoalRect-Deploy

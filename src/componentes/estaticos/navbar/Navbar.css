@@ -1,0 +1,16 @@
+.color-navbar /*trocar nome*/
+{
+    background-color: #5d799b;
+    background-image: linear-gradient(62deg, #a1b4c9 0%, #2a3948 100%);
+
+}
+
+.cursor{
+    cursor: pointer;
+    color: white;
+}
+
+.text-decorator-none{
+    text-decoration: none;
+    color: white;
+}
